@@ -1,0 +1,34 @@
+.partialBG {
+    font-family: 'Apple LiGothic';
+    text-align: center;
+    background: linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.62),
+        rgba(33, 113, 234, 1)
+      ),
+      url(../Images/jumboIllustrations.svg) no-repeat center fixed;;
+    color: var(--primaryColor);
+    padding: 5%;
+    background-size: cover;
+    min-height: 100vh;
+}
+@media only screen and (min-width: 400px) {
+    .partialBG {
+        height: 100vh;
+    }
+  }
+
+.popupCard{
+    background-color: var(--primaryColor);
+    margin: auto;
+}
+
+.entry{
+    margin: 1em;
+}
+
+button{
+    background-color: var(--accentColor);
+    color: var(--primaryColor);
+    border: 0;
+}

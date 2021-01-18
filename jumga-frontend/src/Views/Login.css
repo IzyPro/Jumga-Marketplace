@@ -1,0 +1,14 @@
+.popupCardLogin{
+    background-color: var(--primaryColor);
+    margin: auto;
+}
+
+@media only screen and (max-width: 300px) {
+    .popupCardLogin {
+        width: 10%;
+    }
+}
+
+.login{
+    max-width: 40em;
+}

@@ -1,0 +1,19 @@
+.image{
+    vertical-align: middle;
+}
+
+.hline{
+    border-color: rgb(234, 238, 238);
+}
+
+.desc{
+    color: rgb(110, 108, 108);
+}
+
+.modal{
+    font-family: 'Apple LiGothic';
+}
+
+.pdwidth{
+    width: 7em;
+}

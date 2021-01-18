@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Apple LiGothic', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face{
+  font-family: 'Apple LiGothic';
+  src: url(./fonts/Apple\ LiGothic\ Medium.woff) format('woff');
+}
+@font-face{
+  font-family: 'Montserrat';
+  src: url(./fonts/Montserrat-Regular.ttf) format('truetype');
+}
+@font-face{
+  font-family: 'Montserrat-Bold';
+  src: url(./fonts/Montserrat-Bold.ttf) format('truetype');
+}

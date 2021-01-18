@@ -1,0 +1,28 @@
+.footer{
+    background-color: var(--accentColor);
+    color: var(--primaryColor);
+}
+
+.brand{
+    min-width: 125;
+}
+
+.copy{
+    margin: 0;
+    padding: 0;
+    text-align: start;
+}
+
+.svg{
+    min-width: 125;
+    width: auto;
+}
+
+.Link{
+    color: var(--primaryColor);
+}
+
+.Link:hover{
+    color: var(--primaryColor);
+    text-decoration: none;
+}

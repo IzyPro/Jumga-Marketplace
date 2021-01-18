@@ -1,0 +1,59 @@
+.shopName {
+  color: var(--accentColor);
+}
+
+.status{
+    margin-top: 1.8em;
+    margin-left: 0.3em;
+    color: orange;
+}
+
+.short{
+    font-family: montserrat;
+    font-size: 1.2em;
+}
+
+.manageShop{
+    color: var(--accentColor);
+}
+
+.cart{
+    text-decoration: none;
+    color: var(--accentColor);
+    font-size: 1.2em;
+}
+
+.cart:hover{
+    text-decoration: none;
+    color: var(--accentColor);
+    font-size: 1.2em;
+}
+
+.three{
+    width: 23%;
+}
+@media (max-width: 400px) {
+    .three {
+        width: 100%;
+    }
+}
+@media (min-width: 900px) {
+    .three {
+        width: 23.7%;
+    }
+}
+@media (max-width: 499px) {
+    .three {
+        width: 100%;
+    }
+}
+@media (min-width: 700px) and (max-width: 899px){
+    .three {
+        width: 31.4%;
+    }
+}
+@media (min-width: 500px) and (max-width: 699px){
+    .three {
+        width: 47%;
+    }
+}
