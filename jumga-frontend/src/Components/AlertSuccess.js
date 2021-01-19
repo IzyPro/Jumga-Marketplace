@@ -3,9 +3,9 @@ import { ReactComponent as CheckIcon } from "../Icons/checkIcon.svg";
 
 function AlertSuccess() {
   return (
-    <div className="">
-      <CheckIcon className="col-md-6 mx-auto" width="60" />
-      <p className="lead m-auto">Successful</p>
+    <div className="home container text-center">
+      <CheckIcon className="mx-auto text-center" width="40%" />
+      <h2 className="m-auto text-center">Successful</h2>
     </div>
   );
 }

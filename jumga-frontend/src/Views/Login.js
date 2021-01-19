@@ -4,7 +4,7 @@ import logo from "../logo.svg";
 import { Link, useHistory } from "react-router-dom";
 import CustomLoader from "../Components/CustomLoader";
 import { Modal } from "react-bootstrap";
-import { getUserData, setUserSession } from "../UserResources/UserData";
+import { setUserSession } from "../UserResources/UserData";
 import AlertSuccess from "../Components/AlertSuccess";
 import AlertFailure from "../Components/AlertFailure";
 import axiosInstance from "../UserResources/httpclient"
@@ -37,14 +37,11 @@ function Login() {
       axiosInstance
         .post("/api/auth/login", user)
         .then((response) => {
-          setLoading(false);
-          console.log(response);
           setUserSession(
             response.data.token,
             JSON.stringify(response.data.userDetails),
           );
-          let v = getUserData();
-          console.log(v);
+          setLoading(false);
           setModalResult(<AlertSuccess/>);
           setShowResult(true);
           history.push("./AdminShop");

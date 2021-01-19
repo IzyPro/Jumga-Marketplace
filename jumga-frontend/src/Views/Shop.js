@@ -35,7 +35,6 @@ function Shop() {
   // }
   
   if (userData.isError) {
-    console.log(userData.errorCode);
     if (id.username === null) {
       loader = <Error404 />;
     }

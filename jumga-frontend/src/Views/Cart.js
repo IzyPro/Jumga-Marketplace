@@ -28,14 +28,20 @@ export default function Cart() {
     }, 5000);
   };
   let orderItems = [];
-  let totalItemsAmount =
-    cartItems.length > 0
-      ? cartItems.map((datum) => (datum.productPrice * datum.orderUnit)).reduce((a, b) => a + b)
-      : 0;
-  let totalDeliveryFee =
-    cartItems.length > 0
-      ? cartItems.map((datum) => datum.deliveryFee).reduce((a, b) => a + b)
-      : 0;
+  let totalItemsAmount = 0;
+  let totalDeliveryFee = 0;
+  if (cartItems !== null) {
+    totalItemsAmount =
+      cartItems.length > 0
+        ? cartItems
+            .map((datum) => datum.productPrice * datum.orderUnit)
+            .reduce((a, b) => a + b)
+        : 0;
+    totalDeliveryFee =
+      cartItems.length > 0
+        ? cartItems.map((datum) => datum.deliveryFee).reduce((a, b) => a + b)
+        : 0;
+  }
   if (cartItems !== null) {
     cartItems.map((datum) => {
       let orders = {
@@ -120,15 +126,12 @@ export default function Cart() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(user);
-    console.log(totalAmount, totalDeliveryFee, totalItemsAmount);
     handleClose();
     setLoading(true);
 
     handleFlutterPayment({
       callback: (response) => {
         setLoading(false);
-        console.log(response);
         if (response.status === "successful") {
           let feedback = {
             transactionId: response.transaction_id.toString(),
@@ -144,12 +147,10 @@ export default function Cart() {
             subTotalDeliveryCost: totalDeliveryFee,
             total: totalItemsAmount + totalDeliveryFee,
           };
-          console.log(feedback);
           axiosInstance
             .post(`/api/shops/make-order`, feedback)
             .then((response) => {
               setLoading(false);
-              console.log(response);
               setModalResult(
                 <div>
                   <AlertSuccess />
@@ -168,7 +169,6 @@ export default function Cart() {
             })
             .catch((error) => {
               setLoading(false);
-              console.log(error);
               if (error.status === 401) {
                 setModalResult(<AlertFailure error={error.message} />);
                 setShowResult(true);
@@ -189,7 +189,7 @@ export default function Cart() {
     });
   };
 
-  if (cartItems.length < 1) {
+  if (cartItems === null || cartItems.length < 1) {
     Content = <p className="text-center mt-5 home">Your Cart is empty</p>;
   } else {
     let products = cartItems.map((data, key) => (

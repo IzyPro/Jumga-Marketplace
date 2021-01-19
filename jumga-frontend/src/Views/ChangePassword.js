@@ -2,8 +2,7 @@ import React from 'react';
 
 function ChangePassword(){
     const onload = () => {
-    window.alert(window.location.href)
-    //console.log("window.alert.href");   
+    window.alert(window.location.href)   
     }
     return(
         <div>

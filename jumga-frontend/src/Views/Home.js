@@ -20,7 +20,7 @@ function Home() {
             />
           </div>
           <div className="col-md-4 pull-left-2 m-auto p-0">
-            <h1 className="jumboText text-right p-3 m-5">
+            <h1 className="jumboText float-right text-right pr-3 mr-5">
               Sell your<br/> goods from the <br/>comfort of your Location
             </h1>
           </div>

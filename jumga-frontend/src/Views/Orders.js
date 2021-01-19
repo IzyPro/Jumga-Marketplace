@@ -13,7 +13,6 @@ function Orders() {
   } else if (userData.loading) {
     loader = <CustomLoader />;
   } else if (userData.data) {
-    console.log(userData.data);
     let products = <p></p>;
     if (userData.data < 1) {
       products = <p className="text-center m-5">Your have no orders yet</p>;
@@ -25,6 +24,7 @@ function Orders() {
           <td>{data.customerPhoneNumber}</td>
           <td>{data.customerDeliveryAddress}</td>
           <td>{data.subTotalItemCost}</td>
+          <td>{data.total}</td>
           {/* <td>{data.orderItems === null ? <p>No Item</p> : data.orderItems.map((datum) => (
               <p>{datum.name}</p>
           ))}</td> */}
@@ -40,8 +40,8 @@ function Orders() {
                   <th>Email</th>
                   <th>Phone</th>
                   <th>Address</th>
+                  <th>Item Price</th>
                   <th>Total Price</th>
-                  <th>Items</th>
                 </tr>
               </thead>
               <tbody>{tableData}</tbody>

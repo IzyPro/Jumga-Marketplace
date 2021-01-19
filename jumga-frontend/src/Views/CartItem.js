@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import plus from "../Icons/plus.svg";
 import minus from "../Icons/minus.svg";
 import Delete from "../Icons/deleteIcon.svg";
@@ -7,22 +7,16 @@ import { getShopCurrency } from "../UserResources/ShopCountry";
 function CartItem(props) {
   const DeleteItem = () => {
     var cartItems = JSON.parse(localStorage.getItem("Cart"));
-    console.log(cartItems[1]);
     cartItems.forEach((item, i) => {
       if (item.id === props.data.id) {
-        console.log(i);
         cartItems.splice(i, 1);
-        console.log(`the  value ${cartItems.length}`);
         window.location.reload();
       }
     });
-    //console.log(cartItems);
     localStorage.setItem("Cart", JSON.stringify(cartItems));
-    //window.location.reload();
   };
   const IncreaseOrder = () => {
     var cartItems = JSON.parse(localStorage.getItem("Cart"));
-    console.log(cartItems);
     cartItems.forEach((item) => {
       if (item.id === props.data.id) {
         if (item.productUnit === item.orderUnit) {
@@ -31,13 +25,11 @@ function CartItem(props) {
         }
       }
     });
-    console.log(cartItems);
     localStorage.setItem("Cart", JSON.stringify(cartItems));
     window.location.reload();
   };
   const DecreaseOrder = () => {
     var cartItems = JSON.parse(localStorage.getItem("Cart"));
-    console.log(cartItems);
     cartItems.forEach((item) => {
       if (item.id === props.data.id) {
         if (item.orderUnit === 1) {
@@ -46,7 +38,6 @@ function CartItem(props) {
         }
       }
     });
-    console.log(cartItems);
     localStorage.setItem("Cart", JSON.stringify(cartItems));
     window.location.reload();
   };

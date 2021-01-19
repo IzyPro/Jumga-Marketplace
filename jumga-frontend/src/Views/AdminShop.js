@@ -8,9 +8,9 @@ import { useFlutterwave, closePaymentModal } from "flutterwave-react-v3";
 import { Modal } from "react-bootstrap";
 import AlertFailure from "../Components/AlertFailure";
 import ShopHeader from "../Components/ShopHeader";
-import ProductItem from "../Components/ProductItem";
 import AlertSuccess from "../Components/AlertSuccess";
 import axiosInstance from "../UserResources/httpclient";
+import AdminProductItem from "../Components/AdminProductItem";
 
 const flutterwavePK = process.env.REACT_APP_PUBLIC;
 
@@ -22,6 +22,7 @@ function AdminShop() {
     setShowResult(false);
     window.location.reload();
   };
+  const handleShow = () => {setShow(true)};
 
   let userDetails = getUserData();
   let username = userDetails.userName;
@@ -72,7 +73,6 @@ function AdminShop() {
   } else if (userData.loading) {
     loader = <CustomLoader />;
   } else if (userData.data) {
-    console.log(userData.data);
     setRiderDetails(JSON.stringify(userData.data.dispatchRider))
     let activate = null;
     let products = null;
@@ -86,10 +86,8 @@ function AdminShop() {
           </p>
           <button
             type="button"
-            className="btn-lg pb-3"
-            onClick={() => {
-              setShow(true);
-            }}
+            className="btn-lg pb-3 mb-3"
+            onClick={handleShow}
           >
             Pay Now
           </button>
@@ -103,7 +101,7 @@ function AdminShop() {
       content = <p className="text-center m-5">Your shop is empty</p>;
     } else {
       products = userData.data.products.map((data, key) => (
-        <ProductItem key={data.id} data={data} />
+        <AdminProductItem key={data.id} data={data} />
       ));
       content = <div className="row p-3 mt-3">{products}</div>;
     }
@@ -149,7 +147,6 @@ function AdminShop() {
 
     handleFlutterPayment({
       callback: (response) => {
-        console.log(response);
         closePaymentModal();
         if (response.status === "successful") {
           let feedback = {
@@ -160,7 +157,6 @@ function AdminShop() {
             account_number: user.accountNumber,
             country: `${country}`,
           };
-          console.log(feedback);
 
           axiosInstance
             .put(
@@ -169,7 +165,6 @@ function AdminShop() {
             )
             .then((response) => {
               setLoading(false);
-              console.log(response);
               setModalResult(
                 <div>
                   <AlertSuccess />
@@ -183,10 +178,6 @@ function AdminShop() {
             })
             .catch((error) => {
               setLoading(false);
-              console.log(error);
-              console.log(error.message);
-              console.log(error.response);
-              console.log(error.response.data);
               if (error.status === 401) {
                 setModalResult(<AlertFailure error={error.message} />);
                 setShowResult(true);
@@ -237,6 +228,7 @@ function AdminShop() {
                 placeholder="Account Number"
                 required
               ></input>
+              <label className="pl-1 text-secondary">Please enter a valid account number</label>
             </div>
             {modalloader}
             <button
