@@ -1,5 +1,15 @@
 # FLW Dev Challenge - (Israel and Kelechi)
 
+## Jumga Frontend Documentation
+
+The frontend of the project was built with Javascript as a language on React and Bootstrap & React Bootstrap for styling
+
+## Tools
+
+1. Microsoft Visual Studio Code
+2. Github (Version Control and CI/CD)
+3. Netlify App
+
 ## Jumga Backend API Documentation
 
 This project is written from ground up using C# as language on ASP.NET CORE 3.1 Framework and MSSQL for database system
@@ -12,8 +22,8 @@ This project is written from ground up using C# as language on ASP.NET CORE 3.1 
 
 ## Description
 
-Jumga is a multi-tenant marketplace created for sellers, merchants, brands and anyone who want to create a simple hassle free online shop for the success of the brand, this includes 
-online presence, product listing and management, fast, easy and safe payment integration and shopping cart and orders and delivery services.
+Jumga is a multi-tenant marketplace created for sellers, merchants, brands and anyone who want to create a simple hassle free online shop for the success of their brand, this includes 
+online presence, product listing and management, fast, easy and safe payment integration, shopping cart, orders and delivery services.
 
 #### Features
 
