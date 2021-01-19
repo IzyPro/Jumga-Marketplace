@@ -2,7 +2,7 @@
 
 ![Jumga Logo](https://github.com/IzyPro/Jumga-Marketplace/blob/main/jumga-frontend/src/Icons/fullLogo.png "Jumga Logo")
 
-#### NB: This project leverages on the Flutterwave Payment Gateway and is cureently set to the test enivronment, all accounts and cards should be associated with the flutterwave's test accounts and cards.
+#### NB: This project leverages on the Flutterwave Payment Gateway and is currently set to the test enivronment, all accounts and cards should be associated with the flutterwave's test accounts and cards.
 
 You can check out the project live [here](https://jumgafw.netlify.app)
 
