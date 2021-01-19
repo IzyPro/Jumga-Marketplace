@@ -4,6 +4,8 @@
 
 You can check out the project live [here](https://jumgafw.netlify.app)
 
+#### NB: This project leverages on the Flutterwave Payment Gateway and is cureently set to the test enivronment, all accounts and cards should be associated with the flutterwave's test accounts and cards.
+
 [API Documentation](https://jumga-api.herokuapp.com/index.html)
 ## Jumga Frontend Documentation
 
@@ -71,4 +73,4 @@ the shop's and associated rider's flutterwave subaccount Ids are retrieved from 
 product prices and delivery amount are summed up and is split according to the proper percentages and assigned to their respective subaccounts(passing the exact amount, with the appopriate options). The flutterwave checkout modal is displayed and payment is made by the customer, on succesful payment , the Flutterwave transaction verification endpoint is called again,
 if the verification is successful, value is set in the database(logging the orders in the database, deduction of product units in shop and populating shop and rider balances).
 
-##### NB: There is currently no payment support for the UK on Flutterwave.
+##### NB: There is currently no subaccount creation support for UK on Flutterwave.
