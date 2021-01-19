@@ -49,7 +49,7 @@ With the "isApproved" flag set to false, user's unique shop URL returns 404 to c
 
 #### Shop Approval
 
-There is a notification on the Shop Admin Dashboard that prompts the shop to be approved with a "approve button", approval is made after a token of $20 dollars is made to the Jumga Platform via Flutterwave secure payment gateway, after a succesful transaction the flutterwave transaction verification endpoint is called via our backend in order to fully verify the transaction (transaction id, currency and amount) and give value to the set shop. The shop is approved, a Flutterwave Subaccount is created on the Jumga Platform, a rider(already onboarded on the database) is assigned to the shop and the shop URL is active for public use.
+There is a notification on the Shop Admin Dashboard that prompts the shop to be approved with a "approve button", approval is made after a token of $20 is made to the Jumga Platform via Flutterwave secure payment gateway, after a succesful transaction the flutterwave transaction verification endpoint is called via our backend in order to fully verify the transaction (transaction id, currency and amount) and give value to the set shop. The shop is approved, a Flutterwave Subaccount is created on the Jumga Platform, a rider(already onboarded on the database) is assigned to the shop and the shop URL is active for public use.
 
 #### Shop and Product Management
 
