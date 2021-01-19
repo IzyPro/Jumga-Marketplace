@@ -1,5 +1,7 @@
 # FLW Dev Challenge - (Israel and Kelechi)
 
+![Jumga Logo](https://github.com/IzyPro/Jumga-Marketplace/blob/main/jumga-frontend/src/Icons/fullLogo.png "Jumga Logo")
+
 You can check out the project live [here](https://jumgafw.netlify.app)
 
 [API Documentation](https://jumga-api.herokuapp.com/index.html)
@@ -68,3 +70,5 @@ the prices of items and delivery amounts are pre-calulated and is passed to the 
 the shop's and associated rider's flutterwave subaccount Ids are retrieved from the database or secure session storage and is assigned to the subaccount array section of the flutterwave inline script, 
 product prices and delivery amount are summed up and is split according to the proper percentages and assigned to their respective subaccounts(passing the exact amount, with the appopriate options). The flutterwave checkout modal is displayed and payment is made by the customer, on succesful payment , the Flutterwave transaction verification endpoint is called again,
 if the verification is successful, value is set in the database(logging the orders in the database, deduction of product units in shop and populating shop and rider balances).
+
+##### NB: There is currently no payment support for the UK on Flutterwave.
