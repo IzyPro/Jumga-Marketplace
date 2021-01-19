@@ -1,6 +1,6 @@
 # FLW Dev Challenge - (Israel and Kelechi)
 
-You can view the project [here](https://jumgafw.netlify.app)
+You can check out the project live [here](https://jumgafw.netlify.app)
 
 [API Documentation](https://jumga-api.herokuapp.com/index.html)
 ## Jumga Frontend Documentation
