@@ -1,5 +1,7 @@
 # FLW Dev Challenge - (Israel and Kelechi)
 
+[Demo](https://jumgafw.netlify.app)
+
 ## Jumga Frontend Documentation
 
 The frontend of the project was built with Javascript as a language on React and Bootstrap & React Bootstrap for styling
