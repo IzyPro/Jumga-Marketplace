@@ -39,7 +39,9 @@ online presence, product listing and management, fast, easy and safe payment int
 10. Cart Item breakdown
 11. Riders Delivery Assignment
 
-#### Project Flow
+## Project Flow
+
+#### Shop Creation
 
 A seller creates a shop through the registration process, proper information is gathered for the creation of the shop.
 Shop is created and given a unique shop URL for access from customers, all shop newly created has a flag "isApproved" that is set to false;
@@ -49,10 +51,10 @@ With the "isApproved" flag set to false, user's unique shop URL returns 404 to c
 
 There is a notification on the Shop Admin Dashboard that prompts the shop to be approved with a "approve button", approval is made after a token of $20 dollars is made to the Jumga Platform via Flutterwave secure payment gateway, after a succesful transaction the flutterwave transaction verification endpoint is called via our backend in order to fully verify the transaction (transaction id, currency and amount) and give value to the set shop. The shop is approved, a Flutterwave Subaccount is created on the Jumga Platform, a rider(already onboarded on the database) is assigned to the shop and the shop URL is active for public use.
 
-#### Shop and Prodouct Management
+#### Shop and Product Management
 
 Shop Admin can add products to be displayed on the shop.
-Product details include (Product name, quantity, description, price, delivery price)
+Product details include (Product name, quantity, description, price, delivery price and a picture of the product)
 product is saved on the database according to the respective shop.
 
 #### Orders and Product Sale
@@ -62,4 +64,4 @@ Customer KYC is collected as the payment is initialized,
 the prices of items and delivery amounts are pre-calulated and is passed to the Flutterwave Payment Checkout Modal, 
 the shop's and associated rider's flutterwave subaccount Ids are retrieved from the database or secure session storage and is assigned to the subaccount array section of the flutterwave inline script, 
 product prices and delivery amount are summed up and is split according to the proper percentages and assigned to their respective subaccounts(passing the exact amount, with the appopriate options). The flutterwave checkout modal is displayed and payment is made by the customer, on succesful payment , the Flutterwave transaction verification endpoint is called again,
-if the verification is succesful, value is set in the database(logging the orders in the database, deduction of product units in shop and populating shop and rider balances).
+if the verification is successful, value is set in the database(logging the orders in the database, deduction of product units in shop and populating shop and rider balances).
