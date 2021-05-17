@@ -1,71 +1,141 @@
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\JumgaAPI.exe
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\JumgaAPI.deps.json
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\JumgaAPI.runtimeconfig.json
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\JumgaAPI.runtimeconfig.dev.json
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\JumgaAPI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\JumgaAPI.pdb
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\RestSharp.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.AssemblyInfoInputs.cache
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.AssemblyInfo.cs
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.csproj.CoreCompileInputs.cache
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\staticwebassets\JumgaAPI.StaticWebAssets.Manifest.cache
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\staticwebassets\JumgaAPI.StaticWebAssets.xml
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\JumgaAPI.styles.css
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.RazorTargetAssemblyInfo.cache
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.csproj.CopyComplete
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.dll
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.pdb
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.genruntimeconfig.cache
-C:\Users\kelechi.onyekwere\source\repos\JumgaAPI\JumgaAPI\obj\Debug\netcoreapp3.1\JumgaAPI.csprojAssemblyReference.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/JumgaAPI.exe
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/JumgaAPI.deps.json
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/JumgaAPI.runtimeconfig.json
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/JumgaAPI.runtimeconfig.dev.json
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/JumgaAPI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/JumgaAPI.pdb
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/BCrypt.Net-Next.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Humanizer.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/RestSharp.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.AssemblyInfoInputs.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.AssemblyInfo.cs
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.csproj.CoreCompileInputs.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/staticwebassets/JumgaAPI.StaticWebAssets.Manifest.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/staticwebassets/JumgaAPI.StaticWebAssets.xml
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/scopedcss/bundle/JumgaAPI.styles.css
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.RazorTargetAssemblyInfo.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.csproj.CopyComplete
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.dll
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.pdb
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.genruntimeconfig.cache
+C:/Users/kelechi.onyekwere/source/repos/JumgaAPI/JumgaAPI/obj/Debug/netcoreapp3.1/JumgaAPI.csprojAssemblyReference.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/JumgaAPI.deps.json
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/JumgaAPI.runtimeconfig.json
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/JumgaAPI.runtimeconfig.dev.json
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/JumgaAPI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/JumgaAPI.pdb
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/BCrypt.Net-Next.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.csprojAssemblyReference.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.AssemblyInfoInputs.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.AssemblyInfo.cs
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.csproj.CoreCompileInputs.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/staticwebassets/JumgaAPI.StaticWebAssets.Manifest.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/staticwebassets/JumgaAPI.StaticWebAssets.xml
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/scopedcss/bundle/JumgaAPI.styles.css
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.RazorTargetAssemblyInfo.cache
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.csproj.CopyComplete
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.dll
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.pdb
+/Users/isrealulelu/Downloads/Documents/VS Code/Jumga/jumga-backend-api/obj/Debug/netcoreapp3.1/JumgaAPI.genruntimeconfig.cache

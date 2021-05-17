@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{CF7BF12B-48A0-4EC6-907C-29FCA49CCCD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+    <Files>
+      <File FileName="appsettings.json" Line="11" Column="7" IsPinned="True" />
+      <File FileName="Services/IFlutterwaveService.cs" Line="1" Column="1" />
+      <File FileName="Services/FlutterwaveService.cs" Line="48" Column="1" />
+      <File FileName="AppConfig.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="120" Column="30" />
+      <File FileName="WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Models/JwtModel.cs" Line="1" Column="1" />
+      <File FileName="Data/JumgaContext.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20210516165018_Izy_InitialMigration.cs" Line="1" Column="1" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JumgaAPI" expanded="True">
+            <Node name="docker-compose" expanded="True" />
+            <Node name="JumgaAPI" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JumgaAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
